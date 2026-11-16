@@ -49,6 +49,8 @@ Restart the session (or run `/skills reload`), then just talk:
 
 ## Try it in 3 minutes
 
+**Live demo:** watch a real red → green loop at [Ruyue213/fix-ci-demo](https://github.com/Ruyue213/fix-ci-demo) — [failed run](https://github.com/Ruyue213/fix-ci-demo/actions/runs/43849925446) → one-line fix → [green run](https://github.com/Ruyue213/fix-ci-demo/actions/runs/43850108007).
+
 No need to break your own repo — [`demo/fixtures`](demo/fixtures) ships five reproducing failures:
 
 ```bash
